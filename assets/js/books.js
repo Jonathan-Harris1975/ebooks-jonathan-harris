@@ -9,7 +9,7 @@
 
   function norm(s){ return (s||"").toString().toLowerCase(); }
 
-  const resp = await fetch("./books.json", {cache:"no-store"});
+  const resp = await fetch("/books.json", {cache:"no-store"}).catch(()=>fetch("/ebooks/books.json",{cache:"no-store"}));
   const books = await resp.json();
 
   // Build filter set (use 'filter' field first, fall back to tags)
@@ -89,7 +89,7 @@
     actions.className = "actions";
     const btnDetail = document.createElement("a");
     btnDetail.className = "button secondary";
-    btnDetail.href = `book/${book.id}/detail.html`;
+    btnDetail.href = `/book/${book.id}/detail.html`;
     btnDetail.textContent = "Full description";
     const btnBuy = document.createElement("a");
     btnBuy.className = "button";
