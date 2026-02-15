@@ -118,12 +118,14 @@ a:focus{outline:2px solid rgba(79,70,229,.35); outline-offset:2px; border-radius
 }
 .cover{
   width:100%;
-  aspect-ratio: 16/10;
-  object-fit:cover;
+  aspect-ratio: 2/3;
+  object-fit:contain;
   border-radius:14px;
   border:1px solid rgba(0,0,0,0.06);
-  background:#f3f4f6;
+  background:var(--bg-dark);
+  max-height: 380px;
 }
+
 .card h2,.card h3{margin:12px 0 8px; color:#111827; letter-spacing:-.2px}
 .card h2{font-size:1.15rem; line-height:1.25}
 .card p{margin:0 0 10px; color:var(--text)}
