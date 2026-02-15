@@ -3,7 +3,7 @@
     "id": 1,
     "key": "1-ebook",
     "title": "AI and Formula 1: Redefining Speed and Strategy with Intelligent Technology",
-    "short": "Artificial intelligence enhances formula 1 with real-time strategy optimization, predictive analytics, and improved safety, changing racing performance and team efficiency. Pages: 227 | Price: £4.99.",
+    "short": "Artificial intelligence enhances formula 1 with real-time strategy optimization, predictive analytics, and improved safety, changing racing performance and team efficiency.",
     "cover": "https://images.jonathan-harris.online/ai-formula-speed-webp",
     "main_image": "https://images.Jonathan-harris.online/ai-formula-speed-webp",
     "tags": [
@@ -15,13 +15,20 @@
     "filter": "Transportation",
     "keywords": "[SearchKeywords: Transportation, Ai In Sports, Ai And Formula 1: Redefining Speed And Strategy With Intelligent Technology, Ai Trends, Transportation, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/ai-and-formula-1-redefining-speed-and-strategy-with-intelligent-technology",
-    "slug": "ai-and-formula-1-redefining-speed-and-strategy-with-intelligent-technology"
+    "slug": "ai-and-formula-1-redefining-speed-and-strategy-with-intelligent-technology",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of AI and Formula 1 — without the hype.",
+      "Beginners who need a structured introduction to AI in transportation, with plain-English explanations.",
+      "Professionals in transportation looking for practical ways to apply artificial intelligence and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "AI and Formula 1: Redefining Speed and Strategy with Intelligent Technology • Transportation • Artificial Intelligence • AI Trends • AI in Sports • AI and Formula 1: Redefining Speed and Strategy with Intelligent Technology ebook • Transportation AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 2,
     "key": "2-ebook",
     "title": "Artificial Intelligence in Veterinary Medicine: Transforming Animal Healthcare Through Innovation",
-    "short": "Artificial intelligence transforms veterinary care with diagnostic tools, predictive health monitoring, and personalized treatments, improving animal welfare and clinical outcomes. Pages: 235 | Price: £4.99.",
+    "short": "Artificial intelligence transforms veterinary care with diagnostic tools, predictive health monitoring, and personalized treatments, improving animal welfare and clinical outcomes.",
     "cover": "https://images.jonathan-harris.online/artificial-intelligence-veterinary-medicine-webp",
     "main_image": "https://images.Jonathan-harris.online/artificial-intelligence-veterinary-medicine-webp",
     "tags": [
@@ -33,13 +40,20 @@
     "filter": "Healthcare",
     "keywords": "[SearchKeywords: Healthcare, Creativity, Ai Trends, Artificial Intelligence In Veterinary Medicine: Transforming Animal Healthcare Through Innovation, Artificial Intelligence, Healthcare]",
     "buy_url": "https://books.jonathan-harris.online/artificial-intelligence-in-veterinary-medicine-transforming-animal-healthcare-through-innovation",
-    "slug": "artificial-intelligence-in-veterinary-medicine-transforming-animal-healthcare-through-innovation"
+    "slug": "artificial-intelligence-in-veterinary-medicine-transforming-animal-healthcare-through-innovation",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of Artificial Intelligence in Veterinary Medicine — without the hype.",
+      "Beginners who need a structured introduction to AI in healthcare, with plain-English explanations.",
+      "Professionals in healthcare looking for practical ways to apply creativity and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "Artificial Intelligence in Veterinary Medicine: Transforming Animal Healthcare Through Innovation • Healthcare • Creativity • Artificial Intelligence • AI Trends • Artificial Intelligence in Veterinary Medicine: Transforming Animal Healthcare Through Innovation ebook • Healthcare AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 3,
     "key": "3-ebook",
     "title": "AI-Powered Smart Grid: Revolutionizing Electricity Distribution and Generation",
-    "short": "Artificial intelligence optimizes smart grids, enhancing energy efficiency, predicting demand, and integrating renewables for sustainable electricity distribution and generation. Pages: 338 | Price: £4.99.",
+    "short": "Artificial intelligence optimizes smart grids, enhancing energy efficiency, predicting demand, and integrating renewables for sustainable electricity distribution and generation.",
     "cover": "https://images.jonathan-harris.online/ai-smart-grid-electricity-webp",
     "main_image": "https://images.jonathan-harris.online/ai-smart-grid-electricity-webp",
     "tags": [
@@ -51,13 +65,20 @@
     "filter": "Creativity",
     "keywords": "[SearchKeywords: Creativity, Creativity, Ai Trends, Energy, Ai-Powered Smart Grid: Revolutionizing Electricity Distribution And Generation, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/ai-powered-smart-grid-revolutionizing-electricity-distribution-and-generation",
-    "slug": "ai-powered-smart-grid-revolutionizing-electricity-distribution-and-generation"
+    "slug": "ai-powered-smart-grid-revolutionizing-electricity-distribution-and-generation",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of AI-Powered Smart Grid — without the hype.",
+      "Beginners who need a structured introduction to AI in creativity, with plain-English explanations.",
+      "Professionals in creativity looking for practical ways to apply energy and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "AI-Powered Smart Grid: Revolutionizing Electricity Distribution and Generation • Creativity • Energy • Artificial Intelligence • AI Trends • AI-Powered Smart Grid: Revolutionizing Electricity Distribution and Generation ebook • Creativity AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 4,
     "key": "4-ebook",
     "title": "Artificial Intelligence in Logistics: Optimizing Efficiency and Sustainability",
-    "short": "Artificial intelligence streamlines logistics with route optimization, demand forecasting, and automated warehousing, reducing costs and environmental impact for sustainable operations. Pages: 339 | Price: £4.99.",
+    "short": "Artificial intelligence streamlines logistics with route optimization, demand forecasting, and automated warehousing, reducing costs and environmental impact for sustainable operations.",
     "cover": "https://images.jonathan-harris.online/artificial-intelligence-logistics-webp",
     "main_image": "https://images.jonathan-harris.online/artificial-intelligence-logistics-webp",
     "tags": [
@@ -69,13 +90,20 @@
     "filter": "Creativity",
     "keywords": "[SearchKeywords: Creativity, Artificial Intelligence, Creativity, Artificial Intelligence In Logistics: Optimizing Efficiency And Sustainability, Energy, Transportation]",
     "buy_url": "https://books.jonathan-harris.online/artificial-intelligence-in-logistics-optimizing-efficiency-and-sustainability",
-    "slug": "artificial-intelligence-in-logistics-optimizing-efficiency-and-sustainability"
+    "slug": "artificial-intelligence-in-logistics-optimizing-efficiency-and-sustainability",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of Artificial Intelligence in Logistics — without the hype.",
+      "Beginners who need a structured introduction to AI in creativity, with plain-English explanations.",
+      "Professionals in creativity looking for practical ways to apply energy and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "Artificial Intelligence in Logistics: Optimizing Efficiency and Sustainability • Creativity • Energy • Transportation • Artificial Intelligence • Artificial Intelligence in Logistics: Optimizing Efficiency and Sustainability ebook • Creativity AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 5,
     "key": "5-ebook",
     "title": "Artificial Intelligence and the Law: Case Studies and Future Trends",
-    "short": "Explores ai's impact on legal practice through case studies, ethical dilemmas, and future trends in automated contracts and judicial processes. Pages: 224 | Price: £4.99.",
+    "short": "Explores ai's impact on legal practice through case studies, ethical dilemmas, and future trends in automated contracts and judicial processes.",
     "cover": "https://images.jonathan-harris.online/artificial-intelligence-law-webp",
     "main_image": "https://images.jonathan-harris.online/artificial-intelligence-law-webp",
     "tags": [
@@ -87,13 +115,20 @@
     "filter": "Law",
     "keywords": "[SearchKeywords: General Ai, Law, Artificial Intelligence And The Law: Case Studies And Future Trends, Creativity, Law, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/artificial-intelligence-and-the-law-case-studies-and-future-trends",
-    "slug": "artificial-intelligence-and-the-law-case-studies-and-future-trends"
+    "slug": "artificial-intelligence-and-the-law-case-studies-and-future-trends",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of Artificial Intelligence and the Law — without the hype.",
+      "Beginners who need a structured introduction to AI in law, with plain-English explanations.",
+      "Professionals in law looking for practical ways to apply creativity and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "Artificial Intelligence and the Law: Case Studies and Future Trends • Law • Creativity • General AI • Artificial Intelligence • Artificial Intelligence and the Law: Case Studies and Future Trends ebook • Law AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 6,
     "key": "6-ebook",
     "title": "Artificial Intelligence for Cyber Security: A Practical Guide to Data Breach Prevention",
-    "short": "A guide to using artificial intelligence for cybersecurity, using machine learning to detect threats, prevent breaches, and enhance data protection strategies. Pages: 269 | Price: £4.99.",
+    "short": "A guide to using artificial intelligence for cybersecurity, using machine learning to detect threats, prevent breaches, and enhance data protection strategies.",
     "cover": "https://images.jonathan-harris.online/artificial-intelligence-cyber-practical-webp",
     "main_image": "https://images.jonathan-harris.online/artificial-intelligence-cyber-practical-webp",
     "tags": [
@@ -105,13 +140,20 @@
     "filter": "Creativity",
     "keywords": "[SearchKeywords: Creativity, Creativity, Ai Trends, Artificial Intelligence For Cyber Security: A Practical Guide To Data Breach Prevention, Artificial Intelligence, Automation]",
     "buy_url": "https://books.jonathan-harris.online/artificial-intelligence-for-cyber-security-a-practical-guide-to-data-breach-prevention",
-    "slug": "artificial-intelligence-for-cyber-security-a-practical-guide-to-data-breach-prevention"
+    "slug": "artificial-intelligence-for-cyber-security-a-practical-guide-to-data-breach-prevention",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of Artificial Intelligence for Cyber Security — without the hype.",
+      "Beginners who need a structured introduction to AI in creativity, with plain-English explanations.",
+      "Professionals in creativity looking for practical ways to apply artificial intelligence and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "Artificial Intelligence for Cyber Security: A Practical Guide to Data Breach Prevention • Creativity • Artificial Intelligence • AI Trends • Automation • Artificial Intelligence for Cyber Security: A Practical Guide to Data Breach Prevention ebook • Creativity AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 7,
     "key": "7-ebook",
     "title": "The Artificial Intelligence Revolution: From Algorithms to Consciousness",
-    "short": "Chronicles ai's evolution from basic algorithms to potential consciousness, exploring its technological, ethical, and societal implications. Pages: 14 | Price: £3.99.",
+    "short": "Chronicles ai's evolution from basic algorithms to potential consciousness, exploring its technological, ethical, and societal implications.",
     "cover": "https://images.jonathan-harris.online/artificial-intelligence-revolution-algorithms-webp",
     "main_image": "https://images.jonathan-harris.online/artificial-intelligence-revolution-algorithms-webp",
     "tags": [
@@ -123,13 +165,20 @@
     "filter": "Creativity",
     "keywords": "[SearchKeywords: Creativity, Ai & Creativity, Creativity, Ai Trends, The Artificial Intelligence Revolution: From Algorithms To Consciousness, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/the-artificial-intelligence-revolution-from-algorithms-to-consciousness",
-    "slug": "the-artificial-intelligence-revolution-from-algorithms-to-consciousness"
+    "slug": "the-artificial-intelligence-revolution-from-algorithms-to-consciousness",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of The Artificial Intelligence Revolution — without the hype.",
+      "Beginners who need a structured introduction to AI in creativity, with plain-English explanations.",
+      "Professionals in creativity looking for practical ways to apply artificial intelligence and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "The Artificial Intelligence Revolution: From Algorithms to Consciousness • Creativity • Artificial Intelligence • AI Trends • AI & Creativity • The Artificial Intelligence Revolution: From Algorithms to Consciousness ebook • Creativity AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 8,
     "key": "8-ebook",
     "title": "AI in Aviation: Transforming Safety and Sustainability",
-    "short": "Artificial intelligence enhances aviation safety with predictive maintenance, air traffic optimization, and fuel-efficient flight planning, promoting sustainability. Pages: 284 | Price: £4.99.",
+    "short": "Artificial intelligence enhances aviation safety with predictive maintenance, air traffic optimization, and fuel-efficient flight planning, promoting sustainability.",
     "cover": "https://images.jonathan-harris.online/ai-aviation-safety-webp",
     "main_image": "https://images.jonathan-harris.online/ai-aviation-safety-webp",
     "tags": [
@@ -141,13 +190,20 @@
     "filter": "Artificial Intelligence",
     "keywords": "[SearchKeywords: Creativity, Ai Trends, Energy, Ai In Aviation: Transforming Safety And Sustainability, Artificial Intelligence, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/ai-in-aviation-transforming-safety-and-sustainability",
-    "slug": "ai-in-aviation-transforming-safety-and-sustainability"
+    "slug": "ai-in-aviation-transforming-safety-and-sustainability",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of AI in Aviation — without the hype.",
+      "Beginners who need a structured introduction to AI in artificial intelligence, with plain-English explanations.",
+      "Professionals in artificial intelligence looking for practical ways to apply energy and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "AI in Aviation: Transforming Safety and Sustainability • Artificial Intelligence • Energy • AI Trends • Creativity • AI in Aviation: Transforming Safety and Sustainability ebook • Artificial Intelligence AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 9,
     "key": "9-ebook",
     "title": "AI in Maritime: Revolutionizing Shipping for Sustainability",
-    "short": "Artificial intelligence revolutionizes maritime shipping with autonomous vessels, route optimization, and emissions tracking, fostering sustainable global trade. Pages: 312 | Price: £4.99.",
+    "short": "Artificial intelligence revolutionizes maritime shipping with autonomous vessels, route optimization, and emissions tracking, fostering sustainable global trade.",
     "cover": "https://images.jonathan-harris.online/ai-maritime-shipping-webp",
     "main_image": "https://images.jonathan-harris.online/ai-maritime-shipping-webp",
     "tags": [
@@ -159,13 +215,20 @@
     "filter": "Artificial Intelligence",
     "keywords": "[SearchKeywords: Creativity, Ai Trends, Ai In Maritime: Revolutionizing Shipping For Sustainability, Energy, Artificial Intelligence, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/ai-in-maritime-revolutionizing-shipping-for-sustainability",
-    "slug": "ai-in-maritime-revolutionizing-shipping-for-sustainability"
+    "slug": "ai-in-maritime-revolutionizing-shipping-for-sustainability",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of AI in Maritime — without the hype.",
+      "Beginners who need a structured introduction to AI in artificial intelligence, with plain-English explanations.",
+      "Professionals in artificial intelligence looking for practical ways to apply energy and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "AI in Maritime: Revolutionizing Shipping for Sustainability • Artificial Intelligence • Energy • AI Trends • Creativity • AI in Maritime: Revolutionizing Shipping for Sustainability ebook • Artificial Intelligence AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 10,
     "key": "10-ebook",
     "title": "artificial intelligence in Pharmaceuticals:Revolutionizing Healthcare",
-    "short": "Artificial intelligence accelerates drug discovery, optimizes clinical trials, and personalizes treatments, changing pharmaceutical innovation and healthcare delivery. Pages: 328 | Price: £4.99.",
+    "short": "Artificial intelligence accelerates drug discovery, optimizes clinical trials, and personalizes treatments, changing pharmaceutical innovation and healthcare delivery.",
     "cover": "https://images.jonathan-harris.online/artificial-intelligence-pharmaceuticals-revolutionizing-healthcare-webp",
     "main_image": "https://images.jonathan-harris.online/artificial-intelligence-pharmaceuticals-revolutionizing-healthcare-webp",
     "tags": [
@@ -177,13 +240,20 @@
     "filter": "Healthcare",
     "keywords": "[SearchKeywords: Artificial Intelligence In Pharmaceuticals:Revolutionizing Healthcare, Healthcare, Creativity, Ai Trends, Artificial Intelligence, Healthcare]",
     "buy_url": "https://books.jonathan-harris.online/artificial-intelligence-in-pharmaceuticalsrevolutionizing-healthcare",
-    "slug": "artificial-intelligence-in-pharmaceuticals-revolutionizing-healthcare"
+    "slug": "artificial-intelligence-in-pharmaceuticals-revolutionizing-healthcare",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of artificial intelligence in Pharmaceuticals — without the hype.",
+      "Beginners who need a structured introduction to AI in healthcare, with plain-English explanations.",
+      "Professionals in healthcare looking for practical ways to apply creativity and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "artificial intelligence in Pharmaceuticals:Revolutionizing Healthcare • Healthcare • Creativity • Artificial Intelligence • AI Trends • artificial intelligence in Pharmaceuticals:Revolutionizing Healthcare ebook • Healthcare AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 11,
     "key": "11-ebook",
     "title": "The Autonomous Revolution: artificial intelligence and the Future of the Automotive Industry",
-    "short": "Artificial intelligence drives the automotive industry with self-driving cars, predictive maintenance, and smart manufacturing, reshaping mobility and safety. Pages: 324 | Price: £4.99.",
+    "short": "Artificial intelligence drives the automotive industry with self-driving cars, predictive maintenance, and smart manufacturing, reshaping mobility and safety.",
     "cover": "https://images.jonathan-harris.online/autonomous-revolution-artificial-intelligence-webp",
     "main_image": "https://images.jonathan-harris.online/autonomous-revolution-artificial-intelligence-webp",
     "tags": [
@@ -195,13 +265,20 @@
     "filter": "Creativity",
     "keywords": "[SearchKeywords: Creativity, Artificial Intelligence, General Ai, The Autonomous Revolution: Artificial Intelligence And The Future Of The Automotive Industry, Creativity, Transportation]",
     "buy_url": "https://books.jonathan-harris.online/the-autonomous-revolution-artificial-intelligence-and-the-future-of-the-automotive-industry",
-    "slug": "the-autonomous-revolution-artificial-intelligence-and-the-future-of-the-automotive-industry"
+    "slug": "the-autonomous-revolution-artificial-intelligence-and-the-future-of-the-automotive-industry",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of The Autonomous Revolution — without the hype.",
+      "Beginners who need a structured introduction to AI in creativity, with plain-English explanations.",
+      "Professionals in creativity looking for practical ways to apply transportation and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "The Autonomous Revolution: artificial intelligence and the Future of the Automotive Industry • Creativity • Transportation • General AI • Artificial Intelligence • The Autonomous Revolution: artificial intelligence and the Future of the Automotive Industry ebook • Creativity AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 12,
     "key": "12-ebook",
     "title": "Artificial intelligence Powered Retail: Revolutionizing Customer Experience for a Sustainable Future",
-    "short": "Artificial intelligence enhances retail with personalized shopping, inventory optimization, and sustainable supply chains, improving customer experience and eco-efficiency. Pages: 234 | Price: £4.99.",
+    "short": "Artificial intelligence enhances retail with personalized shopping, inventory optimization, and sustainable supply chains, improving customer experience and eco-efficiency.",
     "cover": "https://images.jonathan-harris.online/artificial-intelligence-retail-customer-webp",
     "main_image": "https://images.jonathan-harris.online/artificial-intelligence-retail-customer-webp",
     "tags": [
@@ -213,13 +290,20 @@
     "filter": "Creativity",
     "keywords": "[SearchKeywords: Retail, Creativity, General Ai, Creativity, Artificial Intelligence Powered Retail: Revolutionizing Customer Experience For A Sustainable Future, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/artificial-intelligence-powered-retail-revolutionizing-customer-experience-for-a-sustainable-future",
-    "slug": "artificial-intelligence-powered-retail-revolutionizing-customer-experience-for-a-sustainable-future"
+    "slug": "artificial-intelligence-powered-retail-revolutionizing-customer-experience-for-a-sustainable-future",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of Artificial intelligence Powered Retail — without the hype.",
+      "Beginners who need a structured introduction to AI in creativity, with plain-English explanations.",
+      "Professionals in creativity looking for practical ways to apply retail and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "Artificial intelligence Powered Retail: Revolutionizing Customer Experience for a Sustainable Future • Creativity • Retail • General AI • Artificial Intelligence • Artificial intelligence Powered Retail: Revolutionizing Customer Experience for a Sustainable Future ebook • Creativity AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 13,
     "key": "13-ebook",
     "title": "Artificial intelligence Revolution in Manufacturing: Modernizing Operations, Maintenance, and Service Delivery",
-    "short": "Artificial intelligence modernizes manufacturing with predictive maintenance, automated production, and optimized supply chains, boosting efficiency and innovation. Pages: 369 | Price: £4.99.",
+    "short": "Artificial intelligence modernizes manufacturing with predictive maintenance, automated production, and optimized supply chains, boosting efficiency and innovation.",
     "cover": "https://images.jonathan-harris.online/artificial-intelligence-revolution-manufacturing-webp",
     "main_image": "https://images.jonathan-harris.online/artificial-intelligence-revolution-manufacturing-webp",
     "tags": [
@@ -231,13 +315,20 @@
     "filter": "Creativity",
     "keywords": "[SearchKeywords: Creativity, Artificial Intelligence Revolution In Manufacturing: Modernizing Operations, Maintenance, And Service Delivery, Creativity, Ai Trends, Transportation, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/artificial-intelligence-revolution-in-manufacturing-modernizing-operations-maintenance-and-service-delivery",
-    "slug": "artificial-intelligence-revolution-in-manufacturing-modernizing-operations-maintenance-and-service-delivery"
+    "slug": "artificial-intelligence-revolution-in-manufacturing-modernizing-operations-maintenance-and-service-delivery",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of Artificial intelligence Revolution in Manufacturing — without the hype.",
+      "Beginners who need a structured introduction to AI in creativity, with plain-English explanations.",
+      "Professionals in creativity looking for practical ways to apply artificial intelligence and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "Artificial intelligence Revolution in Manufacturing: Modernizing Operations, Maintenance, and Service Delivery • Creativity • Artificial Intelligence • AI Trends • Transportation • Artificial Intelligence Revolution In Manufacturing: Modernizing Operations • Maintenance • And Service Delivery • Artificial intelligence Revolution in Manufacturing: Modernizing Operations, Maintenance, and Service Delivery ebook • Creativity AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 14,
     "key": "14-ebook",
     "title": "Artificial Intelligence in Industry: A Comprehensive Guide",
-    "short": "A comprehensive guide to artificial intelligence applications across industries, covering automation, analytics, and ethical considerations for industrial transformation. Pages: 347 | Price: £4.99.",
+    "short": "A comprehensive guide to artificial intelligence applications across industries, covering automation, analytics, and ethical considerations for industrial transformation.",
     "cover": "https://images.jonathan-harris.online/artificial-intelligence-industry-comprehensive-webp",
     "main_image": "https://images.jonathan-harris.online/artificial-intelligence-industry-comprehensive-webp",
     "tags": [
@@ -249,13 +340,20 @@
     "filter": "Creativity",
     "keywords": "[SearchKeywords: Creativity, Creativity, Ai Trends, Artificial Intelligence, Artificial Intelligence In Industry: A Comprehensive Guide, Automation]",
     "buy_url": "https://books.jonathan-harris.online/artificial-intelligence-in-industry-a-comprehensive-guide",
-    "slug": "artificial-intelligence-in-industry-a-comprehensive-guide"
+    "slug": "artificial-intelligence-in-industry-a-comprehensive-guide",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of Artificial Intelligence in Industry — without the hype.",
+      "Beginners who need a structured introduction to AI in creativity, with plain-English explanations.",
+      "Professionals in creativity looking for practical ways to apply artificial intelligence and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "Artificial Intelligence in Industry: A Comprehensive Guide • Creativity • Artificial Intelligence • AI Trends • Automation • Artificial Intelligence in Industry: A Comprehensive Guide ebook • Creativity AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 15,
     "key": "15-ebook",
     "title": "The Dumbening: How AI is Reshaping Our Minds",
-    "short": "Examines ai's impact on cognition, exploring how automation and digital reliance may alter human thinking, creativity, and decision-making. Pages: 277 | Price: £4.99.",
+    "short": "Examines ai's impact on cognition, exploring how automation and digital reliance may alter human thinking, creativity, and decision-making.",
     "cover": "https://images.jonathan-harris.online/ai-dumbening-reshaping-our-webp",
     "main_image": "https://images.jonathan-harris.online/ai-dumbening-reshaping-our-webp",
     "tags": [
@@ -267,13 +365,20 @@
     "filter": "Artificial Intelligence",
     "keywords": "[SearchKeywords: Robotics, Ai Trends, Artificial Intelligence, Artificial Intelligence, The Dumbening: How Ai Is Reshaping Our Minds, Automation]",
     "buy_url": "https://books.jonathan-harris.online/the-dumbening-how-ai-is-reshaping-our-minds",
-    "slug": "the-dumbening-how-ai-is-reshaping-our-minds"
+    "slug": "the-dumbening-how-ai-is-reshaping-our-minds",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of The Dumbening — without the hype.",
+      "Beginners who need a structured introduction to AI in artificial intelligence, with plain-English explanations.",
+      "Professionals in artificial intelligence looking for practical ways to apply ai trends and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "The Dumbening: How AI is Reshaping Our Minds • Artificial Intelligence • AI Trends • Automation • Robotics • The Dumbening: How AI is Reshaping Our Minds ebook • Artificial Intelligence AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 16,
     "key": "16-ebook",
     "title": "AI in Agriculture: Revolutionizing Farming for a Sustainable Future",
-    "short": "Artificial intelligence transforms agriculture with precision farming, crop monitoring, and predictive analytics, enhancing yields and sustainability. Pages: 333 | Price: £4.99.",
+    "short": "Artificial intelligence transforms agriculture with precision farming, crop monitoring, and predictive analytics, enhancing yields and sustainability.",
     "cover": "https://images.jonathan-harris.online/ai-agriculture-farming-sustainable-webp",
     "main_image": "https://images.jonathan-harris.online/ai-agriculture-farming-sustainable-webp",
     "tags": [
@@ -285,13 +390,20 @@
     "filter": "Artificial Intelligence",
     "keywords": "[SearchKeywords: General Ai, Creativity, Ai Trends, Ai In Agriculture: Revolutionizing Farming For A Sustainable Future, Artificial Intelligence, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/ai-in-education-reimagining-learning-for-every-student",
-    "slug": "ai-in-agriculture-revolutionizing-farming-for-a-sustainable-future"
+    "slug": "ai-in-agriculture-revolutionizing-farming-for-a-sustainable-future",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of AI in Agriculture — without the hype.",
+      "Beginners who need a structured introduction to AI in artificial intelligence, with plain-English explanations.",
+      "Professionals in artificial intelligence looking for practical ways to apply general ai and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "AI in Agriculture: Revolutionizing Farming for a Sustainable Future • Artificial Intelligence • General AI • AI Trends • Creativity • AI in Agriculture: Revolutionizing Farming for a Sustainable Future ebook • Artificial Intelligence AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 17,
     "key": "17-ebook",
     "title": "AI in Education: Reimagining Learning for Every Student",
-    "short": "Artificial intelligence personalizes education with adaptive learning, automated grading, and virtual tutors, making education accessible and tailored for all. Pages: 323 | Price: £4.99.",
+    "short": "Artificial intelligence personalizes education with adaptive learning, automated grading, and virtual tutors, making education accessible and tailored for all.",
     "cover": "https://images.jonathan-harris.online/ai-education-reimagining-learning-webp",
     "main_image": "https://images.jonathan-harris.online/ai-education-reimagining-learning-webp",
     "tags": [
@@ -303,13 +415,20 @@
     "filter": "Education",
     "keywords": "[SearchKeywords: Education, Creativity, Ai Trends, Ai In Education: Reimagining Learning For Every Student, Artificial Intelligence, Education]",
     "buy_url": "https://books.jonathan-harris.online/artificial-intelligence-in-banking-revolutionizing-finance-and-data-security",
-    "slug": "ai-in-education-reimagining-learning-for-every-student"
+    "slug": "ai-in-education-reimagining-learning-for-every-student",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of AI in Education — without the hype.",
+      "Beginners who need a structured introduction to AI in education, with plain-English explanations.",
+      "Professionals in education looking for practical ways to apply artificial intelligence and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "AI in Education: Reimagining Learning for Every Student • Education • Artificial Intelligence • AI Trends • Creativity • AI in Education: Reimagining Learning for Every Student ebook • Education AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 18,
     "key": "18-ebook",
     "title": "Artificial intelligence in Banking: Revolutionizing Finance and Data Security",
-    "short": "Artificial intelligence revolutionizes banking with fraud detection, personalized services, and secure data management, enhancing financial efficiency and trust. Pages: 286 | Price: £4.99.",
+    "short": "Artificial intelligence revolutionizes banking with fraud detection, personalized services, and secure data management, enhancing financial efficiency and trust.",
     "cover": "https://images.jonathan-harris.online/artificial-intelligence-banking-finance-webp",
     "main_image": "https://images.jonathan-harris.online/artificial-intelligence-banking-finance-webp",
     "tags": [
@@ -321,13 +440,20 @@
     "filter": "Creativity",
     "keywords": "[SearchKeywords: Creativity, Artificial Intelligence In Banking: Revolutionizing Finance And Data Security, Finance, Creativity, Ai Trends, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/digital-diagnosis-how-ai-is-revolutionizing-healthcare",
-    "slug": "artificial-intelligence-in-banking-revolutionizing-finance-and-data-security"
+    "slug": "artificial-intelligence-in-banking-revolutionizing-finance-and-data-security",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of Artificial intelligence in Banking — without the hype.",
+      "Beginners who need a structured introduction to AI in creativity, with plain-English explanations.",
+      "Professionals in creativity looking for practical ways to apply finance and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "Artificial intelligence in Banking: Revolutionizing Finance and Data Security • Creativity • Finance • Artificial Intelligence • AI Trends • Artificial intelligence in Banking: Revolutionizing Finance and Data Security ebook • Creativity AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 19,
     "key": "19-ebook",
     "title": "Digital Diagnosis: How AI is Revolutionizing Healthcare",
-    "short": "Artificial intelligence transforms healthcare with diagnostic tools, predictive analytics, and personalized treatments, improving patient outcomes and efficiency. Pages: 348 | Price: £4.99.",
+    "short": "Artificial intelligence transforms healthcare with diagnostic tools, predictive analytics, and personalized treatments, improving patient outcomes and efficiency.",
     "cover": "https://images.jonathan-harris.online/ai-digital-diagnosis-healthcare-webp",
     "main_image": "https://images.jonathan-harris.online/ai-digital-diagnosis-healthcare-webp",
     "tags": [
@@ -339,13 +465,20 @@
     "filter": "Healthcare",
     "keywords": "[SearchKeywords: Digital Diagnosis: How Ai Is Revolutionizing Healthcare, Healthcare, Creativity, Ai Trends, Artificial Intelligence, Healthcare]",
     "buy_url": "https://books.jonathan-harris.online/artificial-intelligence-in-construction-building-a-sustainable-future",
-    "slug": "digital-diagnosis-how-ai-is-revolutionizing-healthcare"
+    "slug": "digital-diagnosis-how-ai-is-revolutionizing-healthcare",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of Digital Diagnosis — without the hype.",
+      "Beginners who need a structured introduction to AI in healthcare, with plain-English explanations.",
+      "Professionals in healthcare looking for practical ways to apply artificial intelligence and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "Digital Diagnosis: How AI is Revolutionizing Healthcare • Healthcare • Artificial Intelligence • AI Trends • Creativity • Digital Diagnosis: How AI is Revolutionizing Healthcare ebook • Healthcare AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 20,
     "key": "20-ebook",
     "title": "Artificial intelligence in Construction: Building a Sustainable Future",
-    "short": "Artificial intelligence optimizes construction with project planning, safety monitoring, and sustainable design, reducing costs and environmental impact. Pages: 319 | Price: £4.99.",
+    "short": "Artificial intelligence optimizes construction with project planning, safety monitoring, and sustainable design, reducing costs and environmental impact.",
     "cover": "https://images.jonathan-harris.online/artificial-intelligence-construction-building-webp",
     "main_image": "https://images.jonathan-harris.online/artificial-intelligence-construction-building-webp",
     "tags": [
@@ -357,13 +490,20 @@
     "filter": "Creativity",
     "keywords": "[SearchKeywords: Creativity, General Ai, Creativity, Ai Trends, Artificial Intelligence In Construction: Building A Sustainable Future, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/the-artificial-intelligence-job-shift-navigating-the-future-of-work",
-    "slug": "artificial-intelligence-in-construction-building-a-sustainable-future"
+    "slug": "artificial-intelligence-in-construction-building-a-sustainable-future",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of Artificial intelligence in Construction — without the hype.",
+      "Beginners who need a structured introduction to AI in creativity, with plain-English explanations.",
+      "Professionals in creativity looking for practical ways to apply general ai and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "Artificial intelligence in Construction: Building a Sustainable Future • Creativity • General AI • Artificial Intelligence • AI Trends • Artificial intelligence in Construction: Building a Sustainable Future ebook • Creativity AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 21,
     "key": "21-ebook",
     "title": "The Artificial intelligence Job Shift: Navigating the Future of Work",
-    "short": "Explores ai's impact on employment, offering strategies to navigate job automation, reskilling, and emerging career opportunities. Pages: 315 | Price: £4.99.",
+    "short": "Explores ai's impact on employment, offering strategies to navigate job automation, reskilling, and emerging career opportunities.",
     "cover": "https://images.jonathan-harris.online/artificial-intelligence-job-shift-webp",
     "main_image": "https://images.jonathan-harris.online/artificial-intelligence-job-shift-webp",
     "tags": [
@@ -375,13 +515,20 @@
     "filter": "Creativity",
     "keywords": "[SearchKeywords: Creativity, General Ai, Creativity, The Artificial Intelligence Job Shift: Navigating The Future Of Work, Ai Trends, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/the-artificial-intelligence-job-shift-navigating-the-future-of-work",
-    "slug": "the-artificial-intelligence-job-shift-navigating-the-future-of-work"
+    "slug": "the-artificial-intelligence-job-shift-navigating-the-future-of-work",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of The Artificial intelligence Job Shift — without the hype.",
+      "Beginners who need a structured introduction to AI in creativity, with plain-English explanations.",
+      "Professionals in creativity looking for practical ways to apply general ai and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "The Artificial intelligence Job Shift: Navigating the Future of Work • Creativity • General AI • Artificial Intelligence • AI Trends • The Artificial intelligence Job Shift: Navigating the Future of Work ebook • Creativity AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 22,
     "key": "22-ebook",
     "title": "The Future of Government: Leveraging AI to Enhance Services and Safeguard Information",
-    "short": "Artificial intelligence enhances government services with efficient administration, predictive analytics, and robust cybersecurity, improving public trust and safety. Pages: 328 | Price: £4.99.",
+    "short": "Artificial intelligence enhances government services with efficient administration, predictive analytics, and robust cybersecurity, improving public trust and safety.",
     "cover": "https://images.jonathan-harris.online/ai-government-enhance-services-webp",
     "main_image": "https://images.jonathan-harris.online/ai-government-enhance-services-webp",
     "tags": [
@@ -393,13 +540,20 @@
     "filter": "Artificial Intelligence",
     "keywords": "[SearchKeywords: General Ai, Creativity, The Future Of Government: Leveraging Ai To Enhance Services And Safeguard Information, Ai Trends, Artificial Intelligence, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/the-future-of-government-leveraging-ai-to-enhance-services-and-safeguard-information",
-    "slug": "the-future-of-government-leveraging-ai-to-enhance-services-and-safeguard-information"
+    "slug": "the-future-of-government-leveraging-ai-to-enhance-services-and-safeguard-information",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of The Future of Government — without the hype.",
+      "Beginners who need a structured introduction to AI in artificial intelligence, with plain-English explanations.",
+      "Professionals in artificial intelligence looking for practical ways to apply general ai and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "The Future of Government: Leveraging AI to Enhance Services and Safeguard Information • Artificial Intelligence • General AI • AI Trends • Creativity • The Future of Government: Leveraging AI to Enhance Services and Safeguard Information ebook • Artificial Intelligence AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 23,
     "key": "23-ebook",
     "title": "Smart Buildings: AI-Powered Efficiency and Sustainability",
-    "short": "Artificial intelligence optimizes smart buildings with energy management, predictive maintenance, and occupant comfort, promoting sustainability and efficiency. Pages: 345 | Price: £4.99.",
+    "short": "Artificial intelligence optimizes smart buildings with energy management, predictive maintenance, and occupant comfort, promoting sustainability and efficiency.",
     "cover": "https://images.jonathan-harris.online/ai-smart-buildings-webp",
     "main_image": "https://images.jonathan-harris.online/ai-smart-buildings-webp",
     "tags": [
@@ -411,13 +565,20 @@
     "filter": "Creativity",
     "keywords": "[SearchKeywords: Creativity, Smart Buildings: Ai-Powered Efficiency And Sustainability, Creativity, Ai Trends, Energy, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/smart-buildings-ai-powered-efficiency-and-sustainability",
-    "slug": "smart-buildings-ai-powered-efficiency-and-sustainability"
+    "slug": "smart-buildings-ai-powered-efficiency-and-sustainability",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of Smart Buildings — without the hype.",
+      "Beginners who need a structured introduction to AI in creativity, with plain-English explanations.",
+      "Professionals in creativity looking for practical ways to apply energy and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "Smart Buildings: AI-Powered Efficiency and Sustainability • Creativity • Energy • Artificial Intelligence • AI Trends • Smart Buildings: AI-Powered Efficiency and Sustainability ebook • Creativity AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 24,
     "key": "24-ebook",
     "title": "Digital Defense: The Role of AI in Modern Warfare",
-    "short": "Artificial intelligence transforms warfare with autonomous drones, predictive intelligence, and cybersecurity, reshaping military strategy and ethics. Pages: 296 | Price: £4.99.",
+    "short": "Artificial intelligence transforms warfare with autonomous drones, predictive intelligence, and cybersecurity, reshaping military strategy and ethics.",
     "cover": "https://images.jonathan-harris.online/ai-digital-defense-modern-webp",
     "main_image": "https://images.jonathan-harris.online/ai-digital-defense-modern-webp",
     "tags": [
@@ -429,13 +590,20 @@
     "filter": "Artificial Intelligence",
     "keywords": "[SearchKeywords: Ai & Creativity, Digital Defense: The Role Of Ai In Modern Warfare, Creativity, Ai Trends, Artificial Intelligence, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/digital-defense-the-role-of-ai-in-modern-warfare",
-    "slug": "digital-defense-the-role-of-ai-in-modern-warfare"
+    "slug": "digital-defense-the-role-of-ai-in-modern-warfare",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of Digital Defense — without the hype.",
+      "Beginners who need a structured introduction to AI in artificial intelligence, with plain-English explanations.",
+      "Professionals in artificial intelligence looking for practical ways to apply ai trends and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "Digital Defense: The Role of AI in Modern Warfare • Artificial Intelligence • AI Trends • Creativity • AI & Creativity • Digital Defense: The Role of AI in Modern Warfare ebook • Artificial Intelligence AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 25,
     "key": "25-ebook",
     "title": "Artificial Intelligence for Wildlife Conservation: Revolutionizing Biodiversity Protection through Technology",
-    "short": "Artificial intelligence aids wildlife conservation with species monitoring, poaching prevention, and habitat analysis, protecting biodiversity through technology. Pages: 221 | Price: £4.99.",
+    "short": "Artificial intelligence aids wildlife conservation with species monitoring, poaching prevention, and habitat analysis, protecting biodiversity through technology.",
     "cover": "https://images.jonathan-harris.online/artificial-intelligence-wildlife-conservation-webp",
     "main_image": "https://images.jonathan-harris.online/artificial-intelligence-wildlife-conservation-webp",
     "tags": [
@@ -447,13 +615,20 @@
     "filter": "Creativity",
     "keywords": "[SearchKeywords: Creativity, Ai & Creativity, Artificial Intelligence For Wildlife Conservation: Revolutionizing Biodiversity Protection Through Technology, Creativity, Ai Trends, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/artificial-intelligence-for-wildlife-conservation-revolutionizing-biodiversity-protection-through-technology",
-    "slug": "artificial-intelligence-for-wildlife-conservation-revolutionizing-biodiversity-protection-through-technology"
+    "slug": "artificial-intelligence-for-wildlife-conservation-revolutionizing-biodiversity-protection-through-technology",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of Artificial Intelligence for Wildlife Conservation — without the hype.",
+      "Beginners who need a structured introduction to AI in creativity, with plain-English explanations.",
+      "Professionals in creativity looking for practical ways to apply artificial intelligence and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "Artificial Intelligence for Wildlife Conservation: Revolutionizing Biodiversity Protection through Technology • Creativity • Artificial Intelligence • AI Trends • AI & Creativity • Artificial Intelligence for Wildlife Conservation: Revolutionizing Biodiversity Protection through Technology ebook • Creativity AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 26,
     "key": "26-ebook",
     "title": "Climate Intelligence: Harnessing AI for a Greener Future",
-    "short": "Artificial intelligence combats climate change with emissions tracking, renewable energy optimization, and predictive environmental modeling for sustainability. Pages: 338 | Price: £4.99.",
+    "short": "Artificial intelligence combats climate change with emissions tracking, renewable energy optimization, and predictive environmental modeling for sustainability.",
     "cover": "https://images.jonathan-harris.online/ai-climate-intelligence-greener-webp",
     "main_image": "https://images.jonathan-harris.online/ai-climate-intelligence-greener-webp",
     "tags": [
@@ -465,13 +640,20 @@
     "filter": "Artificial Intelligence",
     "keywords": "[SearchKeywords: General Ai, Climate Intelligence: Harnessing Ai For A Greener Future, Ai Trends, Energy, Artificial Intelligence, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/climate-intelligence-harnessing-ai-for-a-greener-future",
-    "slug": "climate-intelligence-harnessing-ai-for-a-greener-future"
+    "slug": "climate-intelligence-harnessing-ai-for-a-greener-future",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of Climate Intelligence — without the hype.",
+      "Beginners who need a structured introduction to AI in artificial intelligence, with plain-English explanations.",
+      "Professionals in artificial intelligence looking for practical ways to apply energy and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "Climate Intelligence: Harnessing AI for a Greener Future • Artificial Intelligence • Energy • General AI • AI Trends • Climate Intelligence: Harnessing AI for a Greener Future ebook • Artificial Intelligence AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 27,
     "key": "27-ebook",
     "title": "AI Revolution in Railways: Modernizing Travel for a Smarter Future",
-    "short": "Artificial intelligence modernizes railways with predictive maintenance, autonomous trains, and optimized scheduling, enhancing safety and efficiency. Pages: 254 | Price: £4.99.",
+    "short": "Artificial intelligence modernizes railways with predictive maintenance, autonomous trains, and optimized scheduling, enhancing safety and efficiency.",
     "cover": "https://images.jonathan-harris.online/ai-revolution-railways-modernizing-webp",
     "main_image": "https://images.jonathan-harris.online/ai-revolution-railways-modernizing-webp",
     "tags": [
@@ -483,13 +665,20 @@
     "filter": "Creativity",
     "keywords": "[SearchKeywords: Creativity, General Ai, Creativity, Ai Trends, Ai Revolution In Railways: Modernizing Travel For A Smarter Future, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/ai-revolution-in-railways-modernizing-travel-for-a-smarter-future",
-    "slug": "ai-revolution-in-railways-modernizing-travel-for-a-smarter-future"
+    "slug": "ai-revolution-in-railways-modernizing-travel-for-a-smarter-future",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of AI Revolution in Railways — without the hype.",
+      "Beginners who need a structured introduction to AI in creativity, with plain-English explanations.",
+      "Professionals in creativity looking for practical ways to apply general ai and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "AI Revolution in Railways: Modernizing Travel for a Smarter Future • Creativity • General AI • Artificial Intelligence • AI Trends • AI Revolution in Railways: Modernizing Travel for a Smarter Future ebook • Creativity AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 28,
     "key": "28-ebook",
     "title": "Artificial Intelligence in Sports: Revolutionizing Performance and Fan Engagement K",
-    "short": "Artificial intelligence enhances sports with performance analytics, injury prevention, and immersive fan experiences, changing athletics and engagement. Pages: 229 | Price: £4.99.",
+    "short": "Artificial intelligence enhances sports with performance analytics, injury prevention, and immersive fan experiences, changing athletics and engagement.",
     "cover": "https://images.jonathan-harris.online/artificial-intelligence-sports-performance-webp",
     "main_image": "https://images.jonathan-harris.online/artificial-intelligence-sports-performance-webp",
     "tags": [
@@ -501,13 +690,20 @@
     "filter": "Creativity",
     "keywords": "[SearchKeywords: Creativity, Ai & Creativity, Artificial Intelligence In Sports: Revolutionizing Performance And Fan Engagement K, Creativity, Ai Trends, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/artificial-intelligence-in-sports-revolutionizing-performance-and-fan-engagement-k",
-    "slug": "artificial-intelligence-in-sports-revolutionizing-performance-and-fan-engagement-k"
+    "slug": "artificial-intelligence-in-sports-revolutionizing-performance-and-fan-engagement-k",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of Artificial Intelligence in Sports — without the hype.",
+      "Beginners who need a structured introduction to AI in creativity, with plain-English explanations.",
+      "Professionals in creativity looking for practical ways to apply artificial intelligence and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "Artificial Intelligence in Sports: Revolutionizing Performance and Fan Engagement K • Creativity • Artificial Intelligence • AI Trends • AI & Creativity • Artificial Intelligence in Sports: Revolutionizing Performance and Fan Engagement K ebook • Creativity AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 29,
     "key": "29-ebook",
     "title": "Lights, Camera, Algorithm: AI’s Role in Modern Filmmaking",
-    "short": "Artificial intelligence revolutionizes filmmaking with script analysis, visual effects, and personalized content, streamlining production and creativity. Pages: 336 | Price: £4.99.",
+    "short": "Artificial intelligence revolutionizes filmmaking with script analysis, visual effects, and personalized content, streamlining production and creativity.",
     "cover": "https://images.jonathan-harris.online/lights-camera-algorithm-ais-webp",
     "main_image": "https://images.jonathan-harris.online/lights-camera-algorithm-ais-webp",
     "tags": [
@@ -519,13 +715,20 @@
     "filter": "Artificial Intelligence",
     "keywords": "[SearchKeywords: Ai & Creativity, Lights, Camera, Algorithm: Aiâ_x0080__x0099_S Role In Modern Filmmaking, Creativity, Ai Trends, Artificial Intelligence, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/lights-camera-algorithm-ais-role-in-modern-filmmaking",
-    "slug": "lights-camera-algorithm-ai-s-role-in-modern-filmmaking"
+    "slug": "lights-camera-algorithm-ai-s-role-in-modern-filmmaking",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of Lights, Camera, Algorithm — without the hype.",
+      "Beginners who need a structured introduction to AI in artificial intelligence, with plain-English explanations.",
+      "Professionals in artificial intelligence looking for practical ways to apply ai trends and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "Lights, Camera, Algorithm: AI’s Role in Modern Filmmaking • Artificial Intelligence • AI Trends • Creativity • AI & Creativity • Lights • Camera • Algorithm: Aiâ_x0080__x0099_S Role In Modern Filmmaking • Lights, Camera, Algorithm: AI’s Role in Modern Filmmaking ebook • Artificial Intelligence AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 30,
     "key": "30-ebook",
     "title": "The AI Music Revolution: Creativity, Controversy, and Collaboration",
-    "short": "Explores ai's role in music creation, from composition to production, addressing creativity, ethics, and artist-artificial intelligence collaboration. Pages: 320 | Price: £4.99.",
+    "short": "Explores ai's role in music creation, from composition to production, addressing creativity, ethics, and artist-artificial intelligence collaboration.",
     "cover": "https://images.jonathan-harris.online/ai-music-revolution-creativity-webp",
     "main_image": "https://images.jonathan-harris.online/ai-music-revolution-creativity-webp",
     "tags": [
@@ -537,13 +740,20 @@
     "filter": "Creativity",
     "keywords": "[SearchKeywords: The Ai Music Revolution: Creativity, Controversy, And Collaboration, Creativity, Ai & Creativity, Creativity, Ai Trends, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/the-ai-music-revolution-creativity-controversy-and-collaboration",
-    "slug": "the-ai-music-revolution-creativity-controversy-and-collaboration"
+    "slug": "the-ai-music-revolution-creativity-controversy-and-collaboration",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of The AI Music Revolution — without the hype.",
+      "Beginners who need a structured introduction to AI in creativity, with plain-English explanations.",
+      "Professionals in creativity looking for practical ways to apply artificial intelligence and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "The AI Music Revolution: Creativity, Controversy, and Collaboration • Creativity • Artificial Intelligence • AI Trends • AI & Creativity • Controversy • And Collaboration • The AI Music Revolution: Creativity, Controversy, and Collaboration ebook • Creativity AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 31,
     "key": "31-ebook",
     "title": "The Architects of AI_ Pioneers_ Breakthroughs_ and the Road Ahead",
-    "short": "Chronicles ai's pioneers and breakthroughs, exploring the technology's history and future potential in shaping society. Pages: 315 | Price: £4.99.",
+    "short": "Chronicles ai's pioneers and breakthroughs, exploring the technology's history and future potential in shaping society.",
     "cover": "https://images.jonathan-harris.online/architects-ai_-pioneers_-breakthroughs_-webp",
     "main_image": "https://images.jonathan-harris.online/architects-ai_-pioneers_-breakthroughs_-webp",
     "tags": [
@@ -553,13 +763,20 @@
     "filter": "Artificial Intelligence",
     "keywords": "[SearchKeywords: Artificial Intelligence, The Architects Of Ai_ Pioneers_ Breakthroughs_ And The Road Ahead, Ai Trends, None, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/the-architects-of-ai_-pioneers_-breakthroughs_-and-the-road-ahead",
-    "slug": "the-architects-of-ai-pioneers-breakthroughs-and-the-road-ahead"
+    "slug": "the-architects-of-ai-pioneers-breakthroughs-and-the-road-ahead",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of The Architects of AI_ Pioneers_ Breakthroughs_ and the Road Ahead — without the hype.",
+      "Beginners who need a structured introduction to AI in artificial intelligence, with plain-English explanations.",
+      "Professionals in artificial intelligence looking for practical ways to apply ai trends and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "The Architects of AI_ Pioneers_ Breakthroughs_ and the Road Ahead • Artificial Intelligence • AI Trends • None • The Architects of AI_ Pioneers_ Breakthroughs_ and the Road Ahead ebook • Artificial Intelligence AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 32,
     "key": "32-ebook",
     "title": "The House Always Knows: AI, Gambling, and the Ethics of Personalized Gaming",
-    "short": "Examines ai's role in gambling, from personalized gaming to addiction risks, addressing ethical concerns and regulation. Pages: 327 | Price: £4.99.",
+    "short": "Examines ai's role in gambling, from personalized gaming to addiction risks, addressing ethical concerns and regulation.",
     "cover": "https://images.jonathan-harris.online/ai-house-always-knows-webp",
     "main_image": "https://images.jonathan-harris.online/ai-house-always-knows-webp",
     "tags": [
@@ -571,13 +788,20 @@
     "filter": "Ethics",
     "keywords": "[SearchKeywords: The House Always Knows: Ai, Gambling, And The Ethics Of Personalized Gaming, Law, Ethics, Ai Governance, Ai Trends, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/the-house-always-knows-ai-gambling-and-the-ethics-of-personalized-gaming",
-    "slug": "the-house-always-knows-ai-gambling-and-the-ethics-of-personalized-gaming"
+    "slug": "the-house-always-knows-ai-gambling-and-the-ethics-of-personalized-gaming",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of The House Always Knows — without the hype.",
+      "Beginners who need a structured introduction to AI in ethics, with plain-English explanations.",
+      "Professionals in ethics looking for practical ways to apply law and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "The House Always Knows: AI, Gambling, and the Ethics of Personalized Gaming • Ethics • Law • Artificial Intelligence • AI Trends • AI Governance • Gambling • And The Ethics Of Personalized Gaming • The House Always Knows: AI, Gambling, and the Ethics of Personalized Gaming ebook • Ethics AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 33,
     "key": "33-ebook",
     "title": "Beyond Earth How AI is Transforming Space Exploration",
-    "short": "Artificial intelligence advances space exploration with autonomous rovers, data analysis, and mission planning, unlocking cosmic discoveries. Pages: 350 | Price: £4.99.",
+    "short": "Artificial intelligence advances space exploration with autonomous rovers, data analysis, and mission planning, unlocking cosmic discoveries.",
     "cover": "https://images.jonathan-harris.online/ai-earth-space-exploration-webp",
     "main_image": "https://images.jonathan-harris.online/ai-earth-space-exploration-webp",
     "tags": [
@@ -589,13 +813,20 @@
     "filter": "Creativity",
     "keywords": "[SearchKeywords: Creativity, Ai & Creativity, Beyond Earth How Ai Is Transforming Space Exploration, Creativity, Ai Trends, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/the-house-always-knows-ai-gambling-and-the-ethics-of-personalized-gaming",
-    "slug": "beyond-earth-how-ai-is-transforming-space-exploration"
+    "slug": "beyond-earth-how-ai-is-transforming-space-exploration",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of Beyond Earth How AI is Transforming Space Exploration — without the hype.",
+      "Beginners who need a structured introduction to AI in creativity, with plain-English explanations.",
+      "Professionals in creativity looking for practical ways to apply artificial intelligence and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "Beyond Earth How AI is Transforming Space Exploration • Creativity • Artificial Intelligence • AI Trends • AI & Creativity • Beyond Earth How AI is Transforming Space Exploration ebook • Creativity AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 34,
     "key": "34-ebook",
     "title": "From Reporters to Robots: How AI is Reshaping Journalism",
-    "short": "Artificial intelligence transforms journalism with automated reporting, fact-checking, and personalized news, raising questions about bias and ethics. Pages: 334 | Price: £4.99.",
+    "short": "Artificial intelligence transforms journalism with automated reporting, fact-checking, and personalized news, raising questions about bias and ethics.",
     "cover": "https://images.jonathan-harris.online/ai-reporters-robots-reshaping-webp",
     "main_image": "https://images.jonathan-harris.online/ai-reporters-robots-reshaping-webp",
     "tags": [
@@ -607,13 +838,20 @@
     "filter": "Artificial Intelligence",
     "keywords": "[SearchKeywords: From Reporters To Robots: How Ai Is Reshaping Journalism, Creativity, Ai Trends, Artificial Intelligence, Artificial Intelligence, Automation]",
     "buy_url": "https://books.jonathan-harris.online/from-reporters-to-robots-how-ai-is-reshaping-journalism",
-    "slug": "from-reporters-to-robots-how-ai-is-reshaping-journalism"
+    "slug": "from-reporters-to-robots-how-ai-is-reshaping-journalism",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of From Reporters to Robots — without the hype.",
+      "Beginners who need a structured introduction to AI in artificial intelligence, with plain-English explanations.",
+      "Professionals in artificial intelligence looking for practical ways to apply ai trends and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "From Reporters to Robots: How AI is Reshaping Journalism • Artificial Intelligence • AI Trends • Creativity • Automation • From Reporters to Robots: How AI is Reshaping Journalism ebook • Artificial Intelligence AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 35,
     "key": "35-ebook",
     "title": "The AI Behind Your Feed: Personalization, Moderation, and the Future of Social Media",
-    "short": "Explores ai's role in social media, from content personalization to moderation, and its impact on user experience and privacy. Pages: 333 | Price: £4.99.",
+    "short": "Explores ai's role in social media, from content personalization to moderation, and its impact on user experience and privacy.",
     "cover": "https://images.jonathan-harris.online/ai-behind-your-feed-webp",
     "main_image": "https://images.jonathan-harris.online/ai-behind-your-feed-webp",
     "tags": [
@@ -624,13 +862,20 @@
     "filter": "Artificial Intelligence",
     "keywords": "[SearchKeywords: General Ai, Ai Trends, None, The Ai Behind Your Feed: Personalization, Moderation, And The Future Of Social Media, Artificial Intelligence, Artificial Intelligence]",
     "buy_url": "https://books.jonathan-harris.online/from-reporters-to-robots-how-ai-is-reshaping-journalism",
-    "slug": "the-ai-behind-your-feed-personalization-moderation-and-the-future-of-social-media"
+    "slug": "the-ai-behind-your-feed-personalization-moderation-and-the-future-of-social-media",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of The AI Behind Your Feed — without the hype.",
+      "Beginners who need a structured introduction to AI in artificial intelligence, with plain-English explanations.",
+      "Professionals in artificial intelligence looking for practical ways to apply general ai and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "The AI Behind Your Feed: Personalization, Moderation, and the Future of Social Media • Artificial Intelligence • General AI • AI Trends • None • The Ai Behind Your Feed: Personalization • Moderation • And The Future Of Social Media • The AI Behind Your Feed: Personalization, Moderation, and the Future of Social Media ebook • Artificial Intelligence AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   },
   {
     "id": 36,
     "key": "36-ebook",
     "title": "Game AI Unleashed: From Finite State Machines to Machine Learning",
-    "short": "Chronicles ai's evolution in gaming, from simple state machines to advanced machine learning, enhancing gameplay and immersion. Pages: 344 | Price: £4.99.",
+    "short": "Chronicles ai's evolution in gaming, from simple state machines to advanced machine learning, enhancing gameplay and immersion.",
     "cover": "https://images.jonathan-harris.online/ai-game-unleashed-finite-webp",
     "main_image": "https://images.jonathan-harris.online/ai-game-unleashed-finite-webp",
     "tags": [
@@ -642,6 +887,13 @@
     "filter": "Education",
     "keywords": "[SearchKeywords: Education, Robotics, Ai Trends, Game Ai Unleashed: From Finite State Machines To Machine Learning, Artificial Intelligence, Education]",
     "buy_url": "https://books.jonathan-harris.online/from-reporters-to-robots-how-ai-is-reshaping-journalism",
-    "slug": "game-ai-unleashed-from-finite-state-machines-to-machine-learning"
+    "slug": "game-ai-unleashed-from-finite-state-machines-to-machine-learning",
+    "audience": [
+      "Curious minds who want a clear, real‑world view of Game AI Unleashed — without the hype.",
+      "Beginners who need a structured introduction to AI in education, with plain-English explanations.",
+      "Professionals in education looking for practical ways to apply artificial intelligence and make better decisions.",
+      "Experienced AI practitioners and subject‑matter experts who want sharper context, trade‑offs, and implementation angles."
+    ],
+    "ai_hidden": "Game AI Unleashed: From Finite State Machines to Machine Learning • Education • Artificial Intelligence • AI Trends • Robotics • Game AI Unleashed: From Finite State Machines to Machine Learning ebook • Education AI book • practical artificial intelligence • real-world AI applications • AI strategy and implementation • beginner to expert AI guide"
   }
 ]
