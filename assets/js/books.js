@@ -69,10 +69,6 @@
     const p = document.createElement("p");
     p.textContent = book.short;
 
-    const meta = document.createElement("div");
-    meta.className = "meta";
-    meta.textContent = `Book ${book.id}`;
-
     const tags = document.createElement("div");
     tags.className = "tags";
     (book.tags||[]).slice(0,4).forEach(t=>{
@@ -88,19 +84,19 @@
     sum.textContent = "More details";
     const moreText = document.createElement("div");
     moreText.className = "meta";
-    moreText.innerHTML = `Read the full description or jump straight to the buy link.`;
+    moreText.innerHTML = `Read the full description, then check the latest price on Amazon.`;
     const actions = document.createElement("div");
     actions.className = "actions";
     const btnDetail = document.createElement("a");
     btnDetail.className = "button secondary";
-    btnDetail.href = `../book/${book.id}/detail.html`;
+    btnDetail.href = `book/${book.id}/detail.html`;
     btnDetail.textContent = "Full description";
     const btnBuy = document.createElement("a");
     btnBuy.className = "button";
     btnBuy.href = book.buy_url || "#";
     btnBuy.target = "_blank";
     btnBuy.rel = "noopener noreferrer";
-    btnBuy.textContent = "Buy";
+    btnBuy.textContent = "View on Amazon";
 
     actions.appendChild(btnDetail);
     actions.appendChild(btnBuy);
@@ -110,7 +106,6 @@
     more.appendChild(actions);
 
     a.appendChild(img);
-    a.appendChild(meta);
     a.appendChild(h);
     a.appendChild(p);
     a.appendChild(tags);
