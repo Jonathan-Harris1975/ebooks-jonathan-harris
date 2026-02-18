@@ -6,6 +6,14 @@
   const chipsWrap = $("#chips");
   const grid = $("#booksGrid");
   const countEl = $("#count");
+  const prevBtn = $("#prevPage");
+  const nextBtn = $("#nextPage");
+  const pageInfo = $("#pageInfo");
+
+  function pageSize(){
+    // 4 items per page keeps the grid tidy; adjust only on very wide screens.
+    return (window.innerWidth >= 1100) ? 8 : 4;
+  }
 
   function norm(s){ return (s||"").toString().toLowerCase(); }
 
@@ -18,7 +26,7 @@
     if (b.filter) filters.add(b.filter);
   });
 
-  const state = { q:"", filter:"All" };
+  const state = { q:"", filter:"All", page:1 };
 
   function makeChip(label){
     const btn = document.createElement("button");
@@ -28,6 +36,7 @@
     btn.setAttribute("aria-pressed", label === state.filter ? "true" : "false");
     btn.addEventListener("click", () => {
       state.filter = label;
+      state.page = 1;
       $$(".chip", chipsWrap).forEach(c => c.setAttribute("aria-pressed", c.textContent === label ? "true":"false"));
       render();
     });
@@ -117,11 +126,43 @@
   function render(){
     grid.innerHTML = "";
     const filtered = books.filter(matches);
-    filtered.forEach(b => grid.appendChild(card(b)));
+
+    const ps = pageSize();
+    const pages = clampPage(filtered.length);
+    const startIdx = (state.page - 1) * ps;
+    const pageItems = filtered.slice(startIdx, startIdx + ps);
+
+    pageItems.forEach(b => grid.appendChild(card(b)));
+
     countEl.textContent = `${filtered.length} of ${books.length} books`;
+    wirePager(filtered.length);
   }
 
-  searchInput.addEventListener("input", (e)=>{ state.q = e.target.value; render(); });
+  searchInput.addEventListener("input", (e)=>{ state.q = e.target.value; state.page = 1; render(); });
+
+  function clampPage(total){
+    const ps = pageSize();
+    const pages = Math.max(1, Math.ceil(total / ps));
+    if (state.page > pages) state.page = pages;
+    if (state.page < 1) state.page = 1;
+    return pages;
+  }
+
+  function wirePager(total){
+    const pages = clampPage(total);
+    const ps = pageSize();
+    const start = (state.page - 1) * ps + 1;
+    const end = Math.min(total, state.page * ps);
+
+    pageInfo.textContent = `Showing ${total ? start : 0}–${total ? end : 0} of ${total} (page ${state.page}/${pages})`;
+    prevBtn.disabled = state.page <= 1;
+    nextBtn.disabled = state.page >= pages;
+  }
+
+  prevBtn.addEventListener("click", ()=>{ state.page -= 1; render(); });
+  nextBtn.addEventListener("click", ()=>{ state.page += 1; render(); });
+
+  window.addEventListener("resize", ()=>{ render(); });
 
   render();
 })();
