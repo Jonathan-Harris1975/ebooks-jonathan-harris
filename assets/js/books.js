@@ -149,6 +149,7 @@
   }
 
   function wirePager(total){
+    if (pager) pager.style.display = "flex";
     const pages = clampPage(total);
     const ps = pageSize();
     const start = (state.page - 1) * ps + 1;
