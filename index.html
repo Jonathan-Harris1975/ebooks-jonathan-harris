@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>eBooks | Jonathan Harris</title>
+  <meta name="description" content="Browse Jonathan Harris ebooks. Search by title, topic, and keywords — then open details or buy.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://jonathan-harris.online/ebooks/">
+  <meta name="theme-color" content="#0D1420">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/c981d18033783598d2216add/script.js" async></script>
+  <script>
+  function loadScript(callback) {
+    var head = document.getElementsByTagName("head")[0];
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "https://tracker.metricool.com/resources/be.js";
+    script.onload = callback;
+    script.onerror = function() {};
+    head.appendChild(script);
+  }
+  loadScript(function() {
+    if (typeof beTracker !== "undefined" && beTracker.t) {
+      beTracker.t({hash: "fe05ab38be8b4875d12740b632198511"});
+    }
+  });
+</script>
+  <link rel="stylesheet" href="/assets/css/site.css">
+</head>
+<body>
+  <header class="hero" role="banner" aria-label="Ebooks catalogue header">
+    <div class="wrap">
+      <img class="logo-plain" src="https://images.jonathan-harris.online/site-logo" alt="Jonathan Harris site logo" loading="lazy">
+      <h1>eBooks Library</h1>
+      <p>All my AI-focused titles in one place. Search, filter, and open the full description when you need the deep dive.</p>
+    </div>
+  </header>
+
+  <main class="main" role="main" aria-label="Ebooks catalogue">
+    <div class="wrap">
+      <div class="toolbar" role="search" aria-label="Search ebooks">
+        <input id="search" class="search" type="search" placeholder="Search titles, topics, keywords…" autocomplete="off" aria-label="Search books">
+        <div id="count" class="meta" aria-live="polite"></div>
+        <div id="chips" class="chips" aria-label="Filter by category"></div>
+      </div>
+
+      <section aria-label="Books grid">
+        <div id="booksGrid" class="grid" role="list" aria-label="Books"></div>
+      </section>
+      <nav id="pager" class="pager" aria-label="Pagination controls">
+        <button id="prevPage" class="pager-btn" type="button">Previous</button>
+        <div id="pageInfo" class="pager-info" aria-live="polite"></div>
+        <button id="nextPage" class="pager-btn" type="button">Next</button>
+      </nav>
+    </div>
+    <div class="footer-note wrap">
+  <p>Tip: search works on titles, topics, and keywords. No tracking tricks — just a fast filter.</p>
+</div>
+  </main>
+
+  <script src="/assets/js/books.js"></script>
+  <script src="https://botsailor.com/script/webchat-link.js?code=1744067063128291" defer></script>
+</body>
+</html>
