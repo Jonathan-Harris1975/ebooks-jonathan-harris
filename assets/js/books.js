@@ -9,6 +9,7 @@
   const prevBtn = $("#prevPage");
   const nextBtn = $("#nextPage");
   const pageInfo = $("#pageInfo");
+  const pager = $("#pager");
 
   function pageSize(){
     // 4 items per page keeps the grid tidy; adjust only on very wide screens.
@@ -17,7 +18,22 @@
 
   function norm(s){ return (s||"").toString().toLowerCase(); }
 
-  const resp = await fetch("/books.json", {cache:"no-store"}).catch(()=>fetch("/ebooks/books.json",{cache:"no-store"}));
+  // Load catalogue data. Prefer root-level /books.json when present, otherwise fall back to /ebooks/books.json.
+  // (Cloudflare Pages deployments vary depending on output/root-dir settings.)
+  let resp = null;
+  try {
+    resp = await fetch("/books.json", { cache: "no-store" });
+    if (!resp.ok) throw new Error("/books.json not found");
+  } catch (_) {
+    resp = await fetch("/ebooks/books.json", { cache: "no-store" });
+  }
+
+  if (!resp || !resp.ok) {
+    // Fail gracefully rather than leaving a blank page.
+    if (countEl) countEl.textContent = "Catalogue data could not be loaded.";
+    return;
+  }
+
   const books = await resp.json();
 
   // Build filter set (use 'filter' field first, fall back to tags)
@@ -149,11 +165,13 @@
   }
 
   function wirePager(total){
-    if (pager) pager.style.display = "flex";
     const pages = clampPage(total);
     const ps = pageSize();
     const start = (state.page - 1) * ps + 1;
     const end = Math.min(total, state.page * ps);
+
+    // Only show pager when there is more than one page.
+    if (pager) pager.style.display = (pages > 1) ? "flex" : "none";
 
     pageInfo.textContent = `Showing ${total ? start : 0}–${total ? end : 0} of ${total} (page ${state.page}/${pages})`;
     prevBtn.disabled = state.page <= 1;
